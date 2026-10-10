@@ -1,0 +1,8 @@
+{
+  "name": "Remix City Immersive Tour",
+  "description": "Interactive Google Maps 3D photorealistic visualization and playable city game map featuring aerial checkpoint rush, landmark quests, 3D GeoGuessr mysteries, and cinematic tours across world cities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
